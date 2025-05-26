@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Farhad!
 
-<!--
-**ValizadaFarhad/ValizadaFarhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Java developer focused on backend development and object-oriented programming.
 
-Here are some ideas to get you started:
+💡 I'm currently learning:
+- Java · OOP · Git · GitHub · IntelliJ IDEA · SQL · Spring Boot *(beginner)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Build Java-based applications and REST APIs
+- Improve problem-solving and clean code practices
+- Contribute to real-world projects in an entry-level developer position
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/farhadvalizada/)
