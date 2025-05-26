@@ -3,7 +3,7 @@
 I'm an aspiring Java developer focused on backend development and object-oriented programming.
 
 💡 I'm currently learning:
-- Java · OOP · Git · GitHub · IntelliJ IDEA · SQL · Spring Boot *(beginner)*
+- Java · OOP · Git · GitHub · IntelliJ IDEA · SQL · Spring Boot
 
 🚀 Goals:
 - Build Java-based applications and REST APIs
